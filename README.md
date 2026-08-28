@@ -37,4 +37,12 @@ Welcome to my central hub for mastering the Data structure and Algorithms. This 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
