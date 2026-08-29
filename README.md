@@ -40,9 +40,11 @@ Welcome to my central hub for mastering the Data structure and Algorithms. This 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
