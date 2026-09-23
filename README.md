@@ -22,6 +22,7 @@ Welcome to my central hub for mastering the Data structure and Algorithms. This 
 | [0011-container-with-most-water](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0344-reverse-string](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Welcome to my central hub for mastering the Data structure and Algorithms. This 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
