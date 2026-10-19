@@ -9,6 +9,7 @@ Welcome to my central hub for mastering the Data structure and Algorithms. This 
 | [0001-two-sum](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Welcome to my central hub for mastering the Data structure and Algorithms. This 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Manas-Tiwaree/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
